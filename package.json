@@ -65,6 +65,6 @@
     "lodash": "^4.17.4"
   },
   "peerDependencies": {
-    "tslint": "4.0.0"
+    "tslint": "5.3.2"
   }
 }
