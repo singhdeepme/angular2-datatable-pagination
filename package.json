@@ -32,12 +32,12 @@
   },
   "homepage": "https://github.com/Ants24/angular2-datatable-pagination#readme",
   "devDependencies": {
-    "@angular/common": "^4.4.4",
-    "@angular/compiler": "^4.4.4",
-    "@angular/compiler-cli": "^4.4.4",
-    "@angular/core": "^4.4.4",
-    "@angular/platform-browser": "^4.4.4",
-    "@angular/platform-browser-dynamic": "^4.4.4",
+    "@angular/common": "^4.2.3",
+    "@angular/compiler": "^4.2.3",
+    "@angular/compiler-cli": "^4.2.3",
+    "@angular/core": "^4.2.3",
+    "@angular/platform-browser": "^4.2.3",
+    "@angular/platform-browser-dynamic": "^4.2.3",
     "@types/jasmine": "^2.5.35",
     "@types/lodash": "^4.14.37",
     "codelyzer": "^2.0.1",
@@ -59,9 +59,9 @@
     "zone.js": "^0.8.12"
   },
   "dependencies": {
-    "@angular/common": "^4.4.4",
-    "@angular/core": "^4.4.4",
-    "@angular/platform-browser": "^4.4.4",
+    "@angular/common": "^4.2.3",
+    "@angular/core": "^4.2.3",
+    "@angular/platform-browser": "^4.2.3",
     "lodash": "^4.17.4"
   },
   "peerDependencies": {
